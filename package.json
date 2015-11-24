@@ -1,0 +1,21 @@
+{
+  "name": "hapi-good",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "glue": "^2.4.0",
+    "good": "^6.4.0",
+    "good-console": "^5.2.0",
+    "hapi": "^11.1.2"
+  },
+  "devDependencies": {
+    "code": "^2.0.1",
+    "lab": "^7.3.0"
+  }
+}
